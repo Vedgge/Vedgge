@@ -1,4 +1,4 @@
-# Hi Imperium of Man 👋 I'm Facu
+# Hi Imperium of Man 👋
 ## About me 🙋🏻‍♂️
 ```python
 # -*- coding: utf-8 -*-
