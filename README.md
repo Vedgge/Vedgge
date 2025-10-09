@@ -1,5 +1,5 @@
-# Hi Imperium of Man 👋
-## About me 🙋🏻‍♂️
+# Hello, Imperium of Man
+## About me 
 ```python
 # -*- coding: utf-8 -*-
 
