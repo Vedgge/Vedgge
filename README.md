@@ -1,8 +1,6 @@
 # Hello, Imperium of Man
 ## About me 
 ```python
-# -*- coding: utf-8 -*-
-
 class FullStackDeveloper:
     def __init__(self):
         self.name = "Facundo Savanco"
