@@ -26,10 +26,10 @@ class SoftwareEngineer:
         ]
         self.hobbies = [
             "New Technologies & Frameworks",
-            "Chemistry & Other Science Fields",
+            "Gym",
+            "D&D",
             "Videogames",
             "Books",
-            "Gym",
         ]
         self.job_experience = [
             "Built and maintained insurance management features with PHP, Symfony, and MySQL.",
