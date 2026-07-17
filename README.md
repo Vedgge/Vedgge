@@ -1,6 +1,6 @@
 # Hello, Imperium of Man
 ## About me 
-```python
+```cpp
 #include <iostream>
 #include <string>
 #include <vector>
