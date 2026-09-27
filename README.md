@@ -30,11 +30,11 @@ public:
               "Domain-Driven Design",
           },
           hobbies{
-              "New Technologies & Frameworks",
-              "Gym",
+              "New technologies",
+              "Gym & calisthenics (New to calisthennics)",
               "D&D",
-              "Videogames",
-              "Books",
+              "Videogames (Turn-based and RTS)",
+              "Books (Mostly Sci-Fi and Fantasy!)",
           },
           job_experience{
               "Built and maintained insurance management features with PHP, Symfony, and MySQL.",
